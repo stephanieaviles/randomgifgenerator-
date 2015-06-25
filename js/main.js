@@ -4,3 +4,4 @@ $(function() {
 	var stuff = new Word();
 });
 
+
